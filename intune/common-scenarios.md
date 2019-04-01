@@ -7,7 +7,7 @@ keywords:
 author: dougeby
 ms.author: dougeby
 manager: dougeby
-ms.date: 11/29/2018
+ms.date: 03/31/2019
 ms.topic: conceptual
 ms.prod:
 ms.service: microsoft-intune
@@ -42,7 +42,7 @@ Following are short introductions to the six most common scenarios that rely on 
 >Do you want to know how Microsoft IT uses Intune to give Microsoft access to corporate resources on their mobile devices while also keeping corporate data protected? [Read this technical case study](https://www.microsoft.com/itshowcase/Article/Content/588) to see in detail how Microsoft IT uses Intune and other services to manage identity, devices, and apps, and data.  
 
 >[!IMPORTANT]
->We want to ensure that mobile devices are up-to-date
+>We want to ensure that mobile devices are up-to-date.
 >In light of the recent "Trident" malware attacks on iOS devices. So we've published a blog post that's called [Ensuring mobile devices are up-to-date using Microsoft Intune](https://blogs.technet.microsoft.com/enterprisemobility/2016/08/26/ensuring-mobile-devices-are-up-to-date-using-microsoft-intune/). It provides information about the different ways that Intune can help keep your devices secure and up-to-date.
 
 ## Protecting your on-premises email and data so it can be safely accessed by mobile devices
